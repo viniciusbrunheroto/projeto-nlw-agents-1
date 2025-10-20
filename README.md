@@ -1,8 +1,12 @@
 # 🧠 NLW Agents
 
-Este projeto foi desenvolvido durante um **evento da Rocketseat**, com o objetivo de explorar o uso de **agentes inteligentes na web**, combinando inteligência, design moderno e performance com uma stack de ponta baseada em React 19.
+O projeto NLW Agents é uma aplicação full-stack desenvolvida durante o evento Next Level Week (NLW) da Rocketseat. Ele demonstra a construção de um sistema que integra funcionalidades de backend e frontend, utilizando tecnologias modernas para criar uma experiência interativa e eficiente. O foco principal é a criação de "agentes" que podem interagir com modelos de linguagem, utilizando embeddings vetoriais para busca de contexto.
 
 ## 🚀 Tecnologias Utilizadas
+
+Este projeto é dividido em duas partes principais: o Backend (servidor) e o Frontend (aplicação web).
+
+### Backend (server)
 
 - **React 19** – Com suporte a novas features como Server Actions e use()
 - **TypeScript** – Tipagem estática e segura para aplicações em escala
@@ -26,3 +30,4 @@ Este projeto foi desenvolvido durante um **evento da Rocketseat**, com o objetiv
 ```bash
 # Instale as dependências
 pnpm install
+
