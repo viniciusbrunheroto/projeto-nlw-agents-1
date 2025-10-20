@@ -17,7 +17,7 @@ Este projeto é dividido em duas partes principais: o Backend (servidor) e o Fro
 - **@google/genai** – SDK para interação com modelos de IA generativa do Google (e.g, Gemini)
 
 
-### Front-end (server)
+### Front-end (web)
 - **React 19** – Com suporte a novas features como Server Actions e use()
 - **TypeScript** – Tipagem estática e segura para aplicações em escala
 - **Vite** – Empacotador moderno e super rápido
@@ -132,5 +132,6 @@ Este projeto é dividido em duas partes principais: o Backend (servidor) e o Fro
 ## Licença
 
 Este projeto está licenciado sob a licença ISC. Consulte o arquivo `LICENSE` para mais detalhes.
+
 
 
