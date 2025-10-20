@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1752023275309,
+      "tag": "0000_pink_madelyne_pryor",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752105336949,
+      "tag": "0001_productive_blade",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752281194430,
+      "tag": "0002_long_warbird",
+      "breakpoints": true
+    }
+  ]
+}
