@@ -129,8 +129,8 @@ Este projeto é dividido em duas partes principais: o Backend (servidor) e o Fro
 
         A aplicação frontend estará disponível em `http://localhost:5173` (ou na porta indicada pelo Vite).
 
-```bash
-# Instale as dependências
-pnpm install
+## Licença
+
+Este projeto está licenciado sob a licença ISC. Consulte o arquivo `LICENSE` para mais detalhes.
 
 
